@@ -3,11 +3,11 @@
   <title>姚力的博客</title>
   
   <subtitle>成功的喜悦往往只属于最后时刻</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lioyao.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://lioyao.github.io/"/>
   <updated>2022-10-06T04:03:38.026Z</updated>
-  <id>http://example.com/</id>
+  <id>http://lioyao.github.io/</id>
   
   <author>
     <name>姚力</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>欢迎来到我的个人主页٩(●˙ε˙●)۶</title>
-    <link href="http://example.com/2022/10/05/hello-world/"/>
-    <id>http://example.com/2022/10/05/hello-world/</id>
+    <link href="http://lioyao.github.io/2022/10/05/hello-world/"/>
+    <id>http://lioyao.github.io/2022/10/05/hello-world/</id>
     <published>2022-10-05T09:48:42.000Z</published>
     <updated>2022-10-06T04:03:38.026Z</updated>
     
